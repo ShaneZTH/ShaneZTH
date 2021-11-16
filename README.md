@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hi there, I'm Shane Zhu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**ShaneZTH/ShaneZTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taohan-zhu/)
 
-Here are some ideas to get you started:
+## **Welcome to my page** &nbsp;![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShaneZTH&left_color=grey&right_color=blue) &nbsp; [![Follow](https://img.shields.io/github/followers/ShaneZTH?label=FOLLOW)](https://github.com/ShaneZTH)
+- I'm a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧭 **More about Me**:
+- 💻 I’m currently working on school works and some cool personal projects;
+- 🌱 Currently learning:
+    - 🧮 Algorithms on [LeetCode]  
+    - 💾 Linux Operating System as well as Tmux and Vim
+    - ⚖️ US Stocks and Cryptocurrency trading
+- 🔭 Hobby: Photography, Astronomy, and Cycling
+- 😄 Pronouns: He/Him
+
+
+<!-- [![Follow](https://img.shields.io/github/followers/ShaneZTH?label=FOLLOW&style=for-the-badge)](https://github.com/ShaneZTH) -->
+<!-- [![HitCount](https://img.shields.io/github/watchers/ShaneZTH/shanezth.github.io?style=for-the-badge)](https://github.com/ShaneZTH/shanezth.github.io) 
+🖥 ⌨️🧭 
 -->
+
+
+
+### 📈 **My GitHub Stats:**
+<p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanezth&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanezth&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
+[LeetCode]: https://leetcode.com/
+[neuwebsite]: https://www.northeastern.edu/
+[linkedin]: https://www.linkedin.com/in/taohan-zhu/
