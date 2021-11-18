@@ -20,10 +20,10 @@
 
 ### 📈 **My GitHub Stats:**
 
-<br>
+<p>
     <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api?username=shanezth&hide=stars&count_private=true&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true" />
     <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanezth&theme=cobalt&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-</br>
+</p>
 
 
 [LeetCode]: https://leetcode.com/
