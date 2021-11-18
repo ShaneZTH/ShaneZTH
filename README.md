@@ -18,12 +18,11 @@
 <!-- [![HitCount](https://img.shields.io/github/watchers/ShaneZTH/shanezth.github.io?style=for-the-badge)](https://github.com/ShaneZTH/shanezth.github.io) -->
 <!-- [![Follow](https://img.shields.io/github/followers/ShaneZTH?label=FOLLOW)](https://github.com/ShaneZTH) -->
 
-
 ### 📈 **My GitHub Stats:**
 
 <p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=shanezth&hide=stars&count_private=true&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanezth&theme=cobalt&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=shanezth&hide=stars&count_private=true&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true" />
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanezth&theme=cobalt&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
 
