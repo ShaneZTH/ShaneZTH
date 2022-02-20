@@ -8,7 +8,9 @@
 ### 🧭 **More about Me**:
 - 💻 I’m currently working on school works and some cool personal projects;
 - 🌱 Currently learning:
-    - 🧮 Algorithms on [LeetCode]  
+    - 🧮 Algorithms on [LeetCode]
+    - 🔌 Java SpringBoot with a full-stack project
+    - 💡 Data Visualization (D3, Vega-lite, and Tableau)
     - 💾 Linux Operating System as well as Tmux and Vim
     - ⚖️ US Stocks and Cryptocurrency trading
 - 🔭 Hobby: Photography, Astronomy, and Cycling
