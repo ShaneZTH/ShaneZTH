@@ -3,10 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taohan-zhu/)
 
 ## **Welcome to my page** &nbsp;![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShaneZTH&left_color=grey&right_color=blue) &nbsp; 
-- I'm a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
+- I graduated from [Northeastern University(SV)][neuwebsite] with a Master's degree in Computer Science
 
 ### 🧭 **More about Me**:
-- 💻 I’m currently working on school works and some cool personal projects;
+- 💻 I’m currently working on personal projects;
 - 🌱 Currently learning:
     - 🧮 Algorithms on [LeetCode]
     - 🔌 Java SpringBoot with a full-stack project
